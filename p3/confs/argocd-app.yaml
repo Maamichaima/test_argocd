@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+    repoURL: https://github.com/Maamichaima/test_argocd.git
     targetRevision: main
     path: p3/confs
 
